@@ -5,4 +5,4 @@ before_script:
 - cd src
 script:
 - javac hello.java
-- java  hello.java
+- java  hello
