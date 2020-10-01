@@ -1,0 +1,6 @@
+dist: xenial
+language: java
+
+script:
+- javac Java.java
+- java Java.java
