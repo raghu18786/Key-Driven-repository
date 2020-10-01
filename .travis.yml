@@ -2,5 +2,5 @@ dist: xenial
 language: java
 
 script:
-- javac Java.java
-- java Java.java
+- javac hello.java
+- java  hello.java
